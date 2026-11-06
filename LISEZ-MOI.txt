@@ -1,0 +1,28 @@
+SITE BDF — mode d'emploi rapide
+================================
+
+Fichiers :
+- index.html      → page d'accueil (la plaquette)
+- son.html / lumiere.html / structure.html / autre.html → les listes de matériel
+- style.css       → tout le style (à modifier pour les couleurs)
+- script.js       → réglages + menu/logo/réseaux
+- photos/         → mets tes images ici
+
+➤ POUR OUVRIR : double-clique sur index.html
+
+➤ LOGO + RÉSEAUX + EMAIL (1 seul endroit !) :
+  Ouvre script.js, tout en haut le bloc CONFIG :
+    logo:      "photos/logo.png"   (laisse "" pour le rond BDF)
+    instagram: "https://instagram.com/..."
+    facebook:  "https://facebook.com/..."
+  Ça s'applique à TOUTES les pages d'un coup.
+
+➤ AJOUTER UNE PHOTO DE MATÉRIEL :
+  Dans son.html (etc.), chaque carte a un bloc <div class="ph">.
+  Remplace la ligne  <span>🎛️</span>  par  <img src="photos/mon-image.jpg" alt="...">
+
+➤ VIDÉOS (index.html) :
+  Remplace dQw4w9WgXcQ par l'identifiant de ta vidéo YouTube.
+
+➤ METTRE EN LIGNE GRATUITEMENT :
+  GitHub Pages ou Netlify (glisser-déposer le dossier). Demande-moi si besoin.
