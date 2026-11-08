@@ -8,9 +8,9 @@ Fichiers :
 - script.js       → réglages + menu/logo/réseaux
 - photos/         → mets tes images ici
 
-➤ POUR OUVRIR : double-clique sur index.html
+POUR OUVRIR : double-clique sur index.html
 
-➤ LOGO + RÉSEAUX + EMAIL (1 seul endroit !) :
+LOGO + RÉSEAUX + EMAIL (1 seul endroit !) :
   Ouvre script.js, tout en haut le bloc CONFIG :
     logo:      "photos/logo.png"   (laisse "" pour le rond BDF)
     instagram: "https://instagram.com/..."
@@ -21,8 +21,5 @@ Fichiers :
   Dans son.html (etc.), chaque carte a un bloc <div class="ph">.
   Remplace la ligne  <span>🎛️</span>  par  <img src="photos/mon-image.jpg" alt="...">
 
-➤ VIDÉOS (index.html) :
+➤IDÉOS (index.html) :
   Remplace dQw4w9WgXcQ par l'identifiant de ta vidéo YouTube.
-
-➤ METTRE EN LIGNE GRATUITEMENT :
-  GitHub Pages ou Netlify (glisser-déposer le dossier). Demande-moi si besoin.
